@@ -1,3 +1,4 @@
+
 // Criar uma função com arrow function
 const galeria = () =>{
 
